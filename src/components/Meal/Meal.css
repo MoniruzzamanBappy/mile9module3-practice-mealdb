@@ -1,0 +1,9 @@
+.item{
+    border: 2px solid rgb(86, 55, 87);
+    border-radius: 15px;
+    padding: 5px;
+}
+.img-thumb{
+    height: 200px;
+    width: 100%;
+}
